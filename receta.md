@@ -16,7 +16,8 @@ Como método de aprendizaje del lenaguaje de marcado Markdown vamos a describir 
 ## Elaboracion
 
 Escalda y [pelas los tomates](https://www.hogarmania.com/cocina/escuela-cocina/tecnicas/pelar-tomate-11696.html) e introduce en el vaso de la batidora, añade el pepino pelado y troceado, el pimiento, el ajo y el pan remojado en agua.  
-Tritura durante unos segundos y añade la sal, viangre y el aceite probado para rectificar si fuera preciso que como dice el dicho: > mejor que sobre que no que falte. 
+Tritura durante unos segundos y añade la sal, viangre y el aceite probado para rectificar si fuera preciso que como dice el dicho: 
+> mejor que sobre que no que falte. 
 Pasa por chino a una sopera y deja enfriar durante una hora.
 Sirve el gazpachín andaluz en tazas individuales acompañados de una guarnición de pan, pepino, cebolla, tomate y huevo duro. Simple.
 
