@@ -16,53 +16,101 @@ El cantar de mayo se realizaba la noche del 30 de abril como ronda de mozos que 
 
 ## Letra del cantar de mayo
 
-**Estamos a Treinta*
+*Estamos a Treinta*
+
 *de Abril cumplido*
+
 *mañana entra Mayo*
+
 *hermoso y florido.*
 
+-------------
+
+
 *Esperando estamos*
+
 *luz de la mañana*
+
 *ver el cielo abierto*
+
 *el Sol en tu cara.*
 
+-------------
+
 *Cara pinta hermosa*
+
 *número de haceles*
+
 *para dibujarte*
+
 *no traigo pinceles.*
 
+-------------
+
 *Pinceles o plumas*
+
 *y una me has de dar*
+
 *de tus alas bellas*
+
 *Águila Imperial.*
 
+-------------
+
 *Águila Imperial*
+
 *que en sueño reposas*
+
 *despierta si duermes*
+
 *y oíras la copla.*
 
+-------------
+
 *Pintaré tus piernas*
+
 *menuditos pies*
+
 *con muchos encantos*
+
 *hechicera eres.*
 
+-------------
+
 *Hechicera eres*
+
 *aquí esta señora*
-*que *(...) se llama*
+
+*que (**nombre de la dama**) se llama*
+
 *de esta casa aurora.*
 
+-------------
+
 *Adiós alhelí*
+
 *adiós azucena*
+
 *adiós flor de lis*
+
 *adiós rosa bella.*
 
+-------------
+
 *Ya nos despedimos*
+
 *pero no nos vamos*
+
 *nuestros corazones*
+
 *aquí nos dejamos.*
 
+-------------
+
 *Si no estás conforme*
+
 *con el mayo dado*
+
 *saca la botella*
 
 *y echamos un trago*
