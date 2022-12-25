@@ -11,7 +11,7 @@ Asi es
 
 Si **hola**
 
-![](Logo-urjc.png) esto mola
+![](https://github.com/gbernalr/Mecatronica-2022-2023/blob/main/resources/Logo-urjc.png) esto mola
 
 ## Imagen en URL
 
